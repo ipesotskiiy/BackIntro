@@ -1,4 +1,4 @@
 # FastAPI_postgres_CRUD
 First test backend FastAPI CRUD
 
-Данный проект решает задачу CRUD-операций без использования SQLAlchemy
+Данный проект решает задачу CRUD-операций без использования ORM
