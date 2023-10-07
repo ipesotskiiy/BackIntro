@@ -1,4 +1,12 @@
 # FastAPI_postgres_CRUD
-First test backend FastAPI CRUD
 
-Данный проект решает задачу CRUD-операций без использования ORM
+Проект позволяющий делать CRUD-операции. Был разработан для знакомства с FastAPI и Docker
+
+# Используемые языки и фреймворки
+- Python 3.10
+- FASTAPI 0.85.0
+- Pydantic 1.10.2
+# Используемые технологии
+- Docker 20.10.17
+# Используемые базы данных
+- PostgreSQL 2.9.3
